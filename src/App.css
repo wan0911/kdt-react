@@ -32,7 +32,22 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
+}
+
+
+.App {
+  display: flex;
+  justify-content: space-between;
+}
+
+.App h1 {
+  background-color: skyblue;
+}
+
+.App span {
+  background-color: orange;
 }

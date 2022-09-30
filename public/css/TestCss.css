@@ -1,0 +1,10 @@
+div.component-root {
+  background-color: orange;
+}
+div.component-root h1 {
+  color: pink;
+}
+div.component-root span {
+  background-color: skyblue;
+  color: white;
+}
